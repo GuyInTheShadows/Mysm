@@ -1,0 +1,7 @@
+# pnpm 11 reads build policy from here (not package.json / .npmrc)
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+dangerouslyAllowAllBuilds: true
+strictDepBuilds: false
+confirmModulesPurge: false
