@@ -1,0 +1,11 @@
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.next
+node_modules
+README.md
+AGENTS.md
+CLAUDE.md
+*.md
+.prettierrc.json
