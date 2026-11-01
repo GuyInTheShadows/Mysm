@@ -47,7 +47,7 @@ export function Experience({ experience }: ExperienceProps) {
               ) : null}
             </div>
 
-            <div>
+            <div className="pl-8 md:pl-0">
               <h3 className="text-xl font-semibold tracking-[-0.01em] leading-snug text-text">
                 {entry.url ? (
                   <a
